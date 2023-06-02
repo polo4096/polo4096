@@ -1,7 +1,3 @@
-### Hi there 👋
-<p style="text-align: center;"
-![this-is-fine-fire](https://github.com/polo4096/polo4096/assets/23300384/f38773ca-9174-4cc9-8e61-216b3e68e931)
-</p>
 
 <p align="center">
   <img src="https://github.com/polo4096/polo4096/assets/23300384/f38773ca-9174-4cc9-8e61-216b3e68e931" />
